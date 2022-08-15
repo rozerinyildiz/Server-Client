@@ -1,2 +1,2 @@
 # Server-Client
- server-client connect with API
+ server-client connect  API using JAVA programming language.
